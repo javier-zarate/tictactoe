@@ -50,7 +50,8 @@ body {
 
 .cell:last-child,
 .cell:nth-child(7),
-.cell:nth-child(8) {
+.cell:nth-child(8),
+.cell:nth-child(9)  {
 	border-bottom: none;
 }
 
